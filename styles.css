@@ -1,0 +1,17 @@
+* {
+    background-color:rgb(225, 216, 254);
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: "Papyrus", fantasy;
+    color: rgb(225, 216, 254);
+    background-color: #23253b;
+    padding: 5px 1em 0 2em;
+}
+.recipe-box {
+    list-style: none;
+    border-style:groove;
+    border-width: 2px;
+    border-color: #23253b;
+}
